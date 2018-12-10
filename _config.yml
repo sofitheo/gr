@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "mibook"
+name                     : "sofitheo"
 description              : "Making Interactivity Greek Book."
 url                      : "https://sofitheo.github.io"
 baseurl                  : "/gr"
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "sofitheo"
   gitlab           :
   google_plus      :
   keybase          :
